@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 8707366287445008111}
   m_Layer: 0
   m_Name: LeftBank
-  m_TagString: Untagged
+  m_TagString: leftScore
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

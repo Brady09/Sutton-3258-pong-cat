@@ -22646,7 +22646,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sphere
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 6449901431650017959, guid: 785bfe002ee677e4bb4850dabd2db641, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 785bfe002ee677e4bb4850dabd2db641, type: 3}
 --- !u!1001 &2175534204014030993
 PrefabInstance:
@@ -22703,6 +22704,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RightBank
       objectReference: {fileID: 0}
+    - target: {fileID: 2175534205408139227, guid: e893ffd23d64f6d42b70cc7fcb577708, type: 3}
+      propertyPath: m_TagString
+      value: rightScore
+      objectReference: {fileID: 0}
     - target: {fileID: 2175534205408139228, guid: e893ffd23d64f6d42b70cc7fcb577708, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -22731,6 +22736,10 @@ PrefabInstance:
     - target: {fileID: 8707366287445008104, guid: 19eb57f1d5b11134794d93587fe8bdb8, type: 3}
       propertyPath: m_Name
       value: LeftBank
+      objectReference: {fileID: 0}
+    - target: {fileID: 8707366287445008104, guid: 19eb57f1d5b11134794d93587fe8bdb8, type: 3}
+      propertyPath: m_TagString
+      value: leftScore
       objectReference: {fileID: 0}
     - target: {fileID: 8707366287445008106, guid: 19eb57f1d5b11134794d93587fe8bdb8, type: 3}
       propertyPath: m_Mesh
